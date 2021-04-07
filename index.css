@@ -102,3 +102,31 @@ nav a {
     position: absolute;
     bottom: 20%;
 }
+.about p {
+    padding: 1%;
+    background-color: #DDB9A3;
+    width: 90%;
+    margin: 0 auto;
+}
+.quickInfo {
+    margin: 0 auto;
+    text-align: center;
+    width: 20%;
+}
+.quickInfo img {
+    width: 40%;
+}
+.bottomImg {
+    width: 99%;
+    margin: 0 auto; 
+    margin-bottom: 0;
+}
+.bottomImg img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+footer {
+    margin-top: 0;
+    background-color: #F9E7DC;
+}
